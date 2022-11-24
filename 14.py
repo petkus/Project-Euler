@@ -1,3 +1,4 @@
+# Finished
 dic = {1: 1}
 
 def collatz(n, dic):

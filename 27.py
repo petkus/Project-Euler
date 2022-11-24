@@ -1,3 +1,4 @@
+# Finished
 import primes
 
 checkb = primes.findPrimes(1000)

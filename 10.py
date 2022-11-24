@@ -1,3 +1,4 @@
+# Finished
 def findPrimes(i):
 	primes = [2]
 	for x in xrange(2,i):

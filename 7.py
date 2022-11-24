@@ -1,3 +1,4 @@
+# Finished
 x = 3
 primes = [2]
 while len(primes) < 10001:

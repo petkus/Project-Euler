@@ -1,3 +1,4 @@
+# Finished
 names = open("p022_names.txt", "r")
 blah = names.read()
 array = eval('[' + blah + ']')

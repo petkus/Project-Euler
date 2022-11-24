@@ -1,3 +1,4 @@
+# Finished
 p = []
 for x in xrange(100,999): 
 	for y in xrange(100,x):

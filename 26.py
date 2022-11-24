@@ -1,3 +1,4 @@
+# Finished
 def findCycle(n):
     cycled = dict()
     div = 1
